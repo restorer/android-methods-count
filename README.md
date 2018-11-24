@@ -11,7 +11,7 @@ Ruby script to count dex methods in jar, aar, apk or arbitrary artifact.
 
 ## P.S.
 
-Tested on macOS, but should work at any *NIX. Have not clue about Windows, but probably will not work.
+Tested on macOS, but should work at any *NIX. Have no clue about Windows, but probably will not work.
 
 Following tools should be installed:
 
