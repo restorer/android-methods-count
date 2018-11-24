@@ -18,4 +18,4 @@ Following tools should be installed:
 - `ruby`, at least `2.3.7` or newer;
 - `unzip` - to unpack `.apk` and `.aar`;
 - `dx` - to convert `.jar` to `.dex` (this tool is bundled with Android SDK, so if you are developing for Android, you should have it);
-- `cat`, `head`, `tail`, `hexdump` - Sorry, I'm too lazy to convert it to native Ruby :)
+- `cat`, `head`, `tail`, `hexdump` - sorry, I'm too lazy to convert it to native Ruby :)
